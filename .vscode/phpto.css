@@ -1,0 +1,9 @@
+h2 {
+    background-color: rgb(71, 70, 70); /* لون الشريط */
+    color: rgb(247, 245, 245); /* لون النص */
+    margin: 0;
+    padding: 5px 10px; /* تقليل المساحة العلوية والسفلية */
+    font-size: 14px; /* تصغير حجم الخط */
+    text-align: center; /* جعل النص في المنتصف */
+    font-family: cursive;
+}

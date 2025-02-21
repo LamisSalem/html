@@ -1,0 +1,20 @@
+title {
+    color: darkred;
+    text-align: center;
+    font-weight: bold;
+}
+h1 {
+    color: steelblue;
+    text-align: center;
+}
+h2 {
+    color: lightsalmon;
+}
+p {
+    font-size: medium;
+    text-align: center;
+}
+caption {
+    font-size: bigger;
+    color: lightsalmon;
+}

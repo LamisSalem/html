@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="photo.css"/>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Course Css</title>
+        <style>
+        img {
+        border-radius: 300px;
+        margin-top: 100px;
+        margin: auto;
+        display: block;
+        margin-bottom: 0;
+        }
+        body {
+        background-image: url("background.jpg");
+        background-size: cover;
+        background-position: center;
+        min-height: 100vh;
+        }
+        h1 {
+        text-align: center;
+        color: #fc9207;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 38px;
+        margin-top: 0;
+        }
+        button {
+            margin: auto;
+            display: block;
+            position: relative;
+            border-radius: 40px;
+            color: rgb(14, 13, 13);
+            background: rgb(155, 130, 94);
+            text-align: center;
+            cursor: pointer;
+            width: 110px;
+            font-size: 20px;
+            padding: 5px;
+        }
+        h2{
+        color: rgb(247, 245, 245);
+        margin: 0px;
+        padding: 8px;
+        top: 0%;
+        left: 0;
+        text-align: left;
+        font-family: cursive;
+        background-color: rgb(71, 70, 70);
+        font-size: 16px;
+        margin-bottom: 100px;
+}
+        </style>
+    </head>
+    <body>
+            <h2>Home Page | About Us |Contact Us | About Courses</h2>
+            <img src="photo.css.jpg" alt="jpg" height="400" width="400" >
+            <h1>Course Css</h1>
+            <button>submit</button>
+    </body>
+    </html>
